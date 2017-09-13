@@ -12,7 +12,10 @@ body {
 
 /*  Header  */
 
-
+.masthead {
+    padding: 1em 0;
+    background-color: #002254;
+}
 
 
 
@@ -30,3 +33,25 @@ body {
 
 
 /*  Typography  */
+
+
+
+
+
+
+
+/*  Accessibility  */
+/*  aka Text for Screen Readers  */
+
+
+
+
+
+
+
+/*  Layouts  */
+
+
+
+
+

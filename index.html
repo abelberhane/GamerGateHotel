@@ -5,24 +5,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Gamer Gate - You're The Hero</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-    <script type="text/javascript" src="path/to/script.js"></script>
+    <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
+    <script type="text/javascript" src="/JavaScript/script.js"></script>
 </head>
 
 <body>
-    <a href="#content">Skip to next Level</a>
+    <a class="skip-link screen-reader-text" href="#content">Skip to next Level</a>
 
-    <header>
-        <div>
-            <div>
-                <h1><a href="/">Gamer Gate</a></h1>
+    <header class="masthead clear">
+        <div class="site-header centered">
+            <div class="site-branding">
+                <h1 class="site-title"><a href="/">Gamer Gate</a></h1>
             </div>
-            <nav>
+            <nav id="multi-level-nav" class="menu multi-level-nav">
                 <ul>
                     <li><a href="#">Home</a></li>
-                    <li>
-                        <a href="#">Your Quest<button>Expand child menu</button></a>
-                        <ul>
+                    <li class="has-children">
+                        <a href="#">Your Quest<button class="dropdown-toggle" aria-expanded="false"><span class="screen-reader-text">Expand child menu</span></button></a>
+                        <ul class="sub-menu">
                             <li><a href="#">Levels</a></li>
                             <li><a href="#">Achievements</a></li>
                             <li><a href="#">DLC</a></li>
@@ -30,12 +30,12 @@
                     </li>
                     <li><a href="#">About</a></li>
                     <li><a href="#">Contact</a></li>
-                    <li><a >Plan A Trip</a></li>
+                    <li><a class-"Plan" href="#">Plan A Trip</a></li>
                 </ul>
             </nav>
         </div>
 
-    </header>
+    </header> <!-- .end of the header -->
 
     <div>
         <div>
