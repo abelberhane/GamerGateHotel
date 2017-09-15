@@ -748,7 +748,7 @@ a.content-button:hover {
   padding: 0;
 }
 .flexslider .slides > li {
-  display: none;
+  display: contents;
   -webkit-backface-visibility: hidden;
 }
 .flexslider .slides img {
