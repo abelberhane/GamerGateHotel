@@ -526,7 +526,7 @@ a.content-button:hover {
     width: .75em;
     height: .75em;
     margin-right: .35em;
-    padding: .4em;
+    padding: .4em; 
     border: 1px solid white;
 }
 
