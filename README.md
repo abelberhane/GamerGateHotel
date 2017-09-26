@@ -8,6 +8,8 @@ I have been adding to the site over time and like the progression. Soon I am goi
 
 Any recommendations, ideas, or comments are more than welcome. 
 
+****The screenoshts below may not reflect the current update and look of the website/code.
+
 ![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/InitialSH.png?raw=true)
 ![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/2ndSH.png?raw=true)
 ![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/3rdSH.png?raw=true)
