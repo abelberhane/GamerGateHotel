@@ -431,7 +431,7 @@ acronym {
 }
 
 mark,
-ins {
+ins { 
 	background: #fff9c0;
 	text-decoration: none;
 }
@@ -975,7 +975,7 @@ html[xmlns] .flexslider .slides {
     font-size: 1.4em;
     color: #FFFCED;
     text-shadow: 1px 1px 3px hsla(277, 47%, 40%, .85);
-    background: hsla(277, 47%, 66%, .85);
+    background: hsla(277, 37%, 16%, .75);
 
 }
 
