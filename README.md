@@ -8,8 +8,10 @@ I have been adding to the site over time and like the progression. Soon I am goi
 
 Any recommendations, ideas, or comments are more than welcome. 
 
-****The screenshots below may not reflect the current update and look of the website/code.
+FlexSlider is the current outstanding item I would like to work on next.
 
+****The screenshots below may not reflect the current update and look of the website/code. 
+9/28/17
 ![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/1.png?raw=true)
 ![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/2.png?raw=true)
 ![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/3.png?raw=true)
