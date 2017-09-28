@@ -8,11 +8,14 @@ I have been adding to the site over time and like the progression. Soon I am goi
 
 Any recommendations, ideas, or comments are more than welcome. 
 
-****The screenoshts below may not reflect the current update and look of the website/code.
+****The screenshots below may not reflect the current update and look of the website/code.
 
-![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/InitialSH.png?raw=true)
-![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/2ndSH.png?raw=true)
-![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/3rdSH.png?raw=true)
-![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/4thSH.png?raw=true)
-![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/5thSH.png?raw=true)
-![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/6thSH.png?raw=true)
+![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/1.png?raw=true)
+![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/2.png?raw=true)
+![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/3.png?raw=true)
+![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/4.png?raw=true)
+![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/5.png?raw=true)
+![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/6.png?raw=true)
+![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/7.png?raw=true)
+![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/8.png?raw=true)
+![alt text](https://github.com/abelberhane/GamerGateHotel/blob/master/Images/Screenshots/9.png?raw=true)
